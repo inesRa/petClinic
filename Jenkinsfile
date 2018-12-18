@@ -1,4 +1,4 @@
-node {
+pipeline {
 	def mavenHome
         
         stage('Code Checkout') { 
